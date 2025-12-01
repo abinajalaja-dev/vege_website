@@ -80,7 +80,7 @@
     font-weight: 800;
 }
 .nav3{
-    border: 1px solid;
+    /* border: 1px solid; */
     display: flex;
     gap: 50px;
     font-size: 11px;
